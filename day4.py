@@ -62,6 +62,10 @@ print(length)  # Output: 11
 
 print(string[2:8])
 
+# adding whitespace to strings 
+print("Python")
+print("\tPython")
+print("\nPython")
 
 
 
